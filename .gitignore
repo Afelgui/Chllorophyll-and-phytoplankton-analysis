@@ -1,0 +1,17 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Notebook/editor metadata
+.ipynb_checkpoints/
+.vscode/
+.codex
+
+# Generated outputs
+out/
+pics/
+run_save.html
+
+# OS junk
+.DS_Store
+Thumbs.db
